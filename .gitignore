@@ -1,0 +1,37 @@
+# Keil / ARM generated output folders
+Objects/
+Listings/
+
+# Build output files
+*.o
+*.d
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.crf
+*.dep
+*.bak
+*.plg
+*.htm
+
+# Keil user-specific files
+*.uvguix.*
+*.uvoptx
+*.uvopt
+
+# Logs
+*.log
+JLinkLog.txt
+
+# VS Code / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python cache if any
+__pycache__/
+*.pyc
